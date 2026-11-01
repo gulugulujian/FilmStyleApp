@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.FilmStyleApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF6B4A</item>
+        <item name="colorPrimaryVariant">#D94F2B</item>
+        <item name="colorSecondary">#4A6BFF</item>
+        <item name="android:statusBarColor">#1A1A1A</item>
+    </style>
+</resources>
